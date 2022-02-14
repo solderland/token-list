@@ -110064,15 +110064,6 @@
     },
     {
       "chainId": 101,
-<<<<<<< HEAD
-      "address": "7gsvY4yjAVrP7fwBBMjyVCJNBRMRHgotjFfqrNPDKJec",
-      "symbol": "MC",
-      "name": "Magic Carrot",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7gsvY4yjAVrP7fwBBMjyVCJNBRMRHgotjFfqrNPDKJec/logo.jpg",
-      "twitter": "https://twitter.com/solderland",
-      "website": "https://solderland.com/"
-=======
       "address": "5C9gnZEjaDVpaQjJcRSf54pJv3g1JVACo32jBRvNxpm4",
       "symbol": "ANGELS",
       "name": "Solana Angels",
@@ -110242,7 +110233,6 @@
       ],
       "extensions": {
         "website": "https://www.codesfortomorrow.com"
->>>>>>> e4efac9a06a44d0ceba80c14400328d5d4745fe6
       }
     }
   ],
